@@ -11,7 +11,6 @@ customtkinter.set_default_color_theme("blue")
 app = customtkinter.CTk()
 app.geometry("400x400")
 app.title("Tkinter App by Taya :)")
-url = "https://g.co/kgs/wSvPD1"
 facts = ["The average person will spend 6 months of their life waiting for red lights to turn green.",
          "The world's largest snowflake on record was 15 inches wide and 8 inches thick.",
          "The shortest war in recorded history lasted only 38 minutes between Britain and Zanzibar on 27 August "
