@@ -2,7 +2,6 @@ from constants.text_of_this import THIS_TEXT
 import tkinter
 import customtkinter
 import random
-# from goose3 import Goose
 import json
 import requests
 
