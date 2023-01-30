@@ -2,7 +2,6 @@ from constants.text_of_this import THIS_TEXT
 import tkinter
 import customtkinter
 import random
-# hiii
 from classes.button_app import FileModification
 
 customtkinter.set_appearance_mode("dark")
