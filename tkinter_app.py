@@ -24,6 +24,10 @@ def print_this_text():
 
 
 def get_content():
+    """
+    gets content
+    :return: None
+    """
     entry_words.get()
 
 
@@ -38,7 +42,7 @@ def clear_box():
     textbox.delete(1.0, 'end')
 
 
-def enter_press(event=None):
+def enter_press():
     find_words_in_file()
 
 
